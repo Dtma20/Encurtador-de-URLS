@@ -1,2 +1,2 @@
 # Encurtador-de-URLS
-Resolução do problema proposto pela Backend Brasil
+Resolução do problema proposto pela Back-End Brasil
